@@ -1,4 +1,4 @@
 ## Descripción
 
 Este es una web de ejemplo para el curso de git
-No vamos a utilizar ningun framework por el momento.
+Este proyecto solo utiliza html, css y javascript, no requiere de un framework
